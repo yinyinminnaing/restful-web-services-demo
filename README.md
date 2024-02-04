@@ -1,4 +1,2 @@
 # restful-web-services-demo
-# Spring-Boot
-# REST
-# JPA
+ Spring-Boot, REST, JPA
